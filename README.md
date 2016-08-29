@@ -1,2 +1,2 @@
-# GPXPlotter
-Plots GPX data recieved over SNMP on an OSM map. 
+# GISPlotter
+Plots GIS data recieved over SNMP on an OSM map. 
